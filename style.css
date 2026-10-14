@@ -51,7 +51,7 @@ button {
 }
 
 button:hover {
-  background: #1d4ed8;
+  background: #0bd834;
 }
 
 .message {
@@ -94,7 +94,7 @@ button:hover {
 }
 
 .delete-button:hover {
-  background: #b91c1c;
+  background: #26ea0d;
 }
 
 .visually-hidden {
